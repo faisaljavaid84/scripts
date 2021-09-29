@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "This shell script prints your name"
+echo "LAst NAme: $2 First Name: $1"
+

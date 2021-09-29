@@ -1,0 +1,7 @@
+#!/bin/bash
+# this is a comment line
+echo -e "Today is: \c"
+date
+echo -e "THe users on the system are: \c"
+who
+
